@@ -7,7 +7,7 @@
 # Hi there, my name is Marlon.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+software+engineer%2C+digital+artist)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=CURRENTLY+learning+SOLIDITY...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=learning+SOLIDITY and more ...)](https://git.io/typing-svg)
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
 
