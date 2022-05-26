@@ -87,20 +87,6 @@ const marlon t = {
 
 <br>
 
----
-
-
-
-## 🌸 Latest Tweets
-
-<br>
-
-<a href="https://www.twitter.com/MarlonBarriosS2"><img src="./assets/metrics.plugin.tweets.svg"></a>
-
-<br>
-
-
-
 <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
 
 <br>
