@@ -44,8 +44,7 @@ const marlon t = {
     code: ["Javascript","Solidity"],
     askMeAbout: ["Blockchain", "DAOs", "Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog"],
     currentFocus: "Blockchain Development Solidity",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+    important: "Be here, Now'"
 };
 ```
 <br>
