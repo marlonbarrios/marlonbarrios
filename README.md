@@ -84,6 +84,8 @@ const marlon t = {
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=whitev "a title")
 ![Kalilinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white "a title")
+
+<img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="I teach Mindfulness">
 </div>
 
 <br>
