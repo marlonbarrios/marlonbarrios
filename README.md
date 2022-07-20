@@ -5,9 +5,9 @@
 </div>
 
 # Hi there, my name is Marlon.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+software+engineer%2C+digital+artist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+software+engineer%2C+digital+artist)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=Creative+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+Creative+Coder)](https://git.io/typing-svg)
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
