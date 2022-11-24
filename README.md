@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+Creative+Coder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=ART+TECH+EMBODIMENT+BLOCKCHAIN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEB DEV+XR/AR +ML+INFOVIZ+ART+TECH)](https://git.io/typing-svg)
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
@@ -25,12 +25,11 @@
 
 ## About Me...
 
-- 🔗 A year ago I decided to learn modern coding...
-- I’m currently learning Blockchain Development...
-- I am fascinated by generative design and complex systems...
+- 🔗 Tow years ago I decided to learn modern coding...
+- I am fascinated by generative design, data flows, AI and complex systems...
 - This and that...
 - ⚡  I was a professional dancer...
-- I teach meditation to web3 people....
+- I teach meditation to web3  and creatives...
   <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
@@ -44,9 +43,9 @@
 ```javascript
 const marlon t = {
     pronouns: "He" | "Him",
-    code: ["Javascript","Solidity"],
-    askMeAbout: ["Blockchain", "DAOs", "Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog"],
-    currentFocus: "Blockchain Development Solidity",
+    code: [" ann things JavaScript""],
+    askMeAbout: ["Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog"],
+    currentFocus: "ML, XR/AR, .js",
     important: "Be here, Now'"
 };
 ```
