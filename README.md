@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I+am+a+Creative+Coder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEBDEV+XRAR+ML+INFOVIZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEB+DEV+XR+AR+ML+INFOVIZ)](https://git.io/typing-svg)
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
@@ -43,7 +43,7 @@
 ```javascript
 const marlon t = {
     pronouns: "He" | "Him",
-    code: [" ann things JavaScript""],
+    code: [" all things JavaScript""],
     askMeAbout: ["Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog"],
     currentFocus: "ML, XR/AR, .js",
     important: "Be here, Now'"
