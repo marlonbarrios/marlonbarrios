@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+Creative+Coder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEB DEV+XR/AR +ML+INFOVIZ+ART+TECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEBDEV+XR/AR +ML+INFOVIZ+ART+TECH)](https://git.io/typing-svg)
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
