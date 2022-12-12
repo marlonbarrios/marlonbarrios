@@ -4,6 +4,11 @@
 <div style="text-align: right">
 </div>
 
+[My Patreon Account!](https://www.patreon.com/user?u=84024387&fan_landing=true&view_as=public)
+
+
+I am an independent creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation.
+
 # Hi there, my name is Marlon.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+full+stack+software+engineer)](https://git.io/typing-svg)
 
