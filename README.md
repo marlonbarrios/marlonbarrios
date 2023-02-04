@@ -4,20 +4,15 @@
 <div style="text-align: right">
 </div>
 
-[My Patreon Account!](https://www.patreon.com/user?u=84024387&fan_landing=true&view_as=public)
 
 
-I am an independent creative technologist, artist and educator with passion for complexity, networked systems, dance, contemplative practices, and social innovation.
 
-# Hi there, my name is Marlon.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I++am+a+full+stack+software+engineer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=I+am+a+Creative+Coder)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&duration=6000&background=FFFEFE00&multiline=true&lines=WEBDEV+XR+AR+ML)](https://git.io/typing-svg)
+# Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev| Synthetic Creative Networked Mindful
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
+
+[My Patreon Account!](https://www.patreon.com/user?u=84024387&fan_landing=true&view_as=public)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
@@ -33,7 +28,7 @@ I am an independent creative technologist, artist and educator with passion for 
 - 🔗 Two years ago I decided to learn modern coding after more than 20 of digital arts experience...
 - I am fascinated by generative design, data flows, AI and complex systems...
 - This and that...
-- ⚡  I was a professional dancer...
+- ⚡  I was a professional dancer...love danceimporvisation
 - I teach meditation to web3  and creatives...
   <br>
 
@@ -49,8 +44,8 @@ I am an independent creative technologist, artist and educator with passion for 
 const marlon t = {
     pronouns: "He" | "Him",
     code: [" all things JavaScript""],
-    askMeAbout: ["Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog"],
-    currentFocus: "ML, XR/AR, .js",
+    askMeAbout: ["Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog", "Embodied Cognition"],
+    currentFocus: "AI, ML, XR/AR, .js",
     important: "Be here, Now'"
 };
 ```
