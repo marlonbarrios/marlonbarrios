@@ -8,7 +8,7 @@
 
 
 
-# Art + Technology + Embodiment + Cognition | Generative AI | Web3 | WebDev| Synthetic Creative Networked Mindful
+# dance/Art + Technology + Embodiment + Cognition | Creative Coding-web | Generative AI | Web3 | Synthetic Creative Networked Mindful
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
@@ -26,11 +26,13 @@
 
 ## About Me...
 
-- 🔗 Two years ago I decided to learn modern coding after more than 20 of digital arts experience...
+- 🔗 I am an interdisciplinary artist: dance improvisation, software engineering, creative coding, generative AI 
 - I am fascinated by generative design, data flows, AI and complex systems...
 - This and that...
-- ⚡  I was a professional dancer...love danceimporvisation
-- I teach meditation to web3  and creatives...
+- ⚡  I was a professional dancer...love dance improvisation
+- I teach meditation to dancers web3  and creatives...
+- Artists lectures workshops and performances
+- Berlin based, Venezuelan born US citizen.
   <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
@@ -45,12 +47,18 @@
 const marlon t = {
     pronouns: "He" | "Him",
     code: [" all things JavaScript""],
-    askMeAbout: ["Complexityity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog", "Embodied Cognition"],
+    askMeAbout: ["Complexity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog", "Embodied Cognition", "Generative AI"],
     currentFocus: "AI, ML, XR/AR, .js",
     important: "Be here, Now'"
 };
 ```
 <br>
+
+
+
+https://github.com/marlonbarrios/marlonbarrios/assets/90220317/05dc5553-46fe-451d-bfd1-9695b566142e
+
+
 
 ## SKILLS
 ![VScode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "a title")
