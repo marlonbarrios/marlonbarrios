@@ -8,7 +8,7 @@
 
 
 
-# dance/Art + Technology + Creative AI + Generative Systems + Embodied Cognition + Vipassana
+# dance/Art + Technology + Creative AI + Generative Systems + Computational Creativity and Cognition + Enactivism + Networks + Complexity + Vipassana
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
