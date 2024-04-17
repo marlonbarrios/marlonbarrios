@@ -8,7 +8,7 @@
 
 
 
-# dance/Art + Technology + Embodiment + Cognition | Creative Coding-web | Generative AI | Web3 | Synthetic Creative Networked Mindful
+# dance/Art + Technology + Creative AI + Generative Systems + Embodied Cognition + Vipassana
 
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
