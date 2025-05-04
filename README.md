@@ -6,21 +6,20 @@
 
 
 
+## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios)
+[![GitHub](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlon_21867)
 
-# dance/Art + Technology + Creative AI + Generative Systems + Computational Creativity and Cognition + Enactivism + Networks + Complexity + Vipassana
+I am a Venezuelan-American interdisciplinary artist, creative technologist, and researcher with a background in dance, software engineering, and cognitive science. My work focuses on generative AI, machine learning, creative coding, and interactive performance. Since August 2024, I’ve been the **Maker-in-Residence** at the **Center for Arts, Migration, and Entrepreneurship (CAME)** at the University of Florida, where I focus on AI, art, and diasporas. I’m also currently an **artist-in-residence** with the **Rewilding Cultures program at Radiona** in Zagreb, Croatia, and at **Lake Studios Berlin**, Germany, where I’m a founding member.
 
+My work investigates **computational creativity** and **synthetic cognition**, designing hybrid complex systems where language and self-organizing processes generate aesthetic experiences. My artistic practice includes machine learning for embodied digital interaction, generative AI, movement and voice, creative coding and app development, generative writing, bottom-up robotics, dance improvisation, and Vipassana meditation. I deploy my work as dynamic browser-based art, open-source code, improvisational scores, sound environments, AI chatbots, and video. I organize these into installations, workshops, participatory performances, and lectures, all published and distributed under open-source licenses.
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
 
 [My Link tree!  Buy me a beer!](https://linktr.ee/marlonbarriososolano)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbarriossolano/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarlonBarriosS2)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonbarrios?tab=repositories)
-
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
@@ -32,27 +31,13 @@
 - ⚡  I was a professional dancer...love dance improvisation
 - I teach meditation to dancers web3  and creatives...
 - Artists lectures workshops and performances
-- Berlin based, Venezuelan born US citizen.
+- Berlin, London, Gainesville, Venezuelan born US citizen. 
   <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <br>
 
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const marlon t = {
-    pronouns: "He" | "Him",
-    code: [" all things JavaScript""],
-    askMeAbout: ["Complexity",  "Tech", 'Dance and Technology", "the Whole Earth Catalog", "Embodied Cognition", "Generative AI"],
-    currentFocus: "AI, ML, XR/AR, .js",
-    important: "Be here, Now'"
-};
-```
-<br>
 
 
 
