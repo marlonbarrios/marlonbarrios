@@ -6,7 +6,7 @@
 
 
 
-## Interdisciplinary Arts + Creative Coding + Machine Learning + Generative AI + Awareness Practices 
+## Interdisciplinary Arts + AI + Creativity + Cognition
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-barrios-solano-98599b205/)
