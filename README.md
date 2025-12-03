@@ -1,11 +1,4 @@
 
-![Visitor Count](https://profile-counter.glitch.me/marlonbarrios/count.svg)
-
-<div style="text-align: right">
-</div>
-
-
-
 ## Interdisciplinary Arts + AI + Creativity + Cognition
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonbarriossolano/)
