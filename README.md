@@ -12,8 +12,6 @@ My work investigates **computational creativity** and **synthetic cognition**, d
 ## Connect with me 
 [My PORTFOLIO](https://marlonbarrios.github.io/)
 
-[My Link tree!  Buy me a beer!](https://linktr.ee/marlonbarriososolano)
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 ## About Me...
@@ -22,7 +20,7 @@ My work investigates **computational creativity** and **synthetic cognition**, d
 - I am fascinated by generative design, data flows, AI and complex systems...
 - This and that...
 - ⚡  I was a professional dancer...love dance improvisation
-- I teach meditation to dancers web3  and creatives...
+- I teach meditation 
 - Artists lectures workshops and performances
 - Berlin, London, Gainesville, Venezuelan born US citizen. 
   <br>
